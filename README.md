@@ -15,3 +15,7 @@ The game is a work in progress. The main goal is to destroy waves of enemies whi
     Visual effects: Player invulnerability flicker, enemy blinking on hit, and a dynamic explosion effect.
 
     Scoring system: Earn points for each enemy you destroy.
+
+
+Test it here
+https://github.com/mamoru-miyagawa/pico-8-shmup-tutorial/blob/main/test.html
